@@ -20,7 +20,7 @@ await build({
 		version: Deno.args[0],
 		description: "Circular Singly Linked List.",
 		license: "MIT",
-		keywords: ["lru", "cache", "store"],
+		keywords: ["list", "circular", "linked list"],
 		repository: {
 			type: "git",
 			url: "git+https://github.com/claudiuandrei/list.git",
